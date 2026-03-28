@@ -1,4 +1,4 @@
-# 🍫 Doces da Kemilli — Landing Page de Páscoa 2026
+# 🍫 Doces da Zefa — Landing Page de Páscoa 2026
 
 Landing page luxuosa e altamente conversora para a campanha de Páscoa da marca **Doces da Kemilli**, confeitaria artesanal de Maracaju/MS.
 
@@ -48,8 +48,8 @@ Landing page luxuosa e altamente conversora para a campanha de Páscoa da marca 
 
 | Canal | Endereço |
 |-------|----------|
-| WhatsApp | [(67) 99257-7583](https://wa.me/5567992577583) |
-| Instagram | [@doces_dakemilli](https://www.instagram.com/doces_dakemilli/) |
+| WhatsApp | [(67) 99257-7583](https://wa.me/5567993144708) |
+| Instagram | [@doces_dakemilli](https://www.instagram.com/prospect.ms/) |
 | Localização | Maracaju, Mato Grosso do Sul |
 
 ---
